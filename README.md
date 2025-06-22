@@ -1,0 +1,30 @@
+# 🧾 Agregador de Dados para Imposto de Renda - Excel
+
+## 📌 Descrição do Projeto
+
+Este projeto foi desenvolvido como parte do desafio prático da DIO para consolidar os conhecimentos adquiridos nas aulas de Excel. O objetivo foi criar uma planilha interativa, validada e intuitiva que auxilie no controle e organização de dados financeiros relevantes para a declaração de imposto de renda.
+
+---
+
+## 🧠 Conceitos Aplicados
+
+- Validação de Dados
+- Tabelas Inteligentes
+- Fórmulas com ProcV, SE, SOMASES e mais
+- Dashboards e menus com hiperlinks
+- Formatação condicional
+- Navegação por botões e links rápidos
+
+---
+
+## 🛠️ Funcionalidades da Planilha
+
+- ✅ **Cadastro de rendimentos**: salários, rendimentos isentos, alugueis e outros
+- ✅ **Controle de despesas dedutíveis**: saúde, educação, previdência
+- ✅ **Área de validação automática**: impede dados inconsistentes
+- ✅ **Menu de navegação intuitivo**: fácil acesso às abas principais
+- ✅ **Links rápidos** para orientações da Receita Federal
+- ✅ **Dashboard consolidado** com resumo anual
+
+---
+
